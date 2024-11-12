@@ -6,7 +6,6 @@ import Users from './components/Users/Users';
 import Orders from './components/Orders/Orders';
 import Memberships from './components/Memberships/Memberships';
 
-
 const App = () => {
   return (
     <ApolloProvider client={client}>

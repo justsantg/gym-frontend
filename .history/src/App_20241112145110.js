@@ -5,7 +5,7 @@ import client from './graphql/client';
 import Users from './components/Users/Users';
 import Orders from './components/Orders/Orders';
 import Memberships from './components/Memberships/Memberships';
-
+import './styles.css';
 
 const App = () => {
   return (
